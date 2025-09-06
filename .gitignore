@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Virtual Environment
+virtualenv/
+virtual-env/
+vane/
+venv/
+env/
+.venv/
+
+# Packaged application
+*.egg
+*.egg-info/
+.installed.cfg
+*.whl
+
+# PyInstaller
+*.spec
+build/
+dist/
+
+# Specific to this project
+model.pkl
+pollution_heatmap.html
