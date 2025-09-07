@@ -11,7 +11,7 @@ This project provides a comprehensive solution for analyzing and predicting poll
 - `preprocessing.ipynb`: Jupyter Notebook for data cleaning and preprocessing steps.
 - `model.pkl`: The pre-trained machine learning model used by the Streamlit application.
 - `pollution_heatmap.html`: An HTML file containing an interactive pollution heatmap, displayed within the Streamlit app.
-- `Screenshot 2025-09-07 021849.png`: Screenshot of the application.
+- `Screenshot 2025-09-07 100721.png`: Screenshot of the application.
 - `Screenshot 2025-09-07 021923.png`: Screenshot of the application.
 - `Screenshot 2025-09-07 021933.png`: Screenshot of the application.
 
