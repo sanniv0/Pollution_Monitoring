@@ -56,10 +56,10 @@ except Exception as e:
 tab1, tab2, tab3 = st.tabs(["📊 City Data & Prediction", "🔎 SHAP Insights", "🌍 Pollution Heatmap"])
 
 with tab1:
+    st.metric(label="Predicted Pollution Level", value=pred[0])
     st.subheader(f"City Data: {city}")
     st.dataframe(city_data, use_container_width=True)
 
-    st.metric(label="Predicted Pollution Level", value=pred[0])
 
 with tab2:
     st.subheader("SHAP Feature Contribution")
