@@ -78,7 +78,7 @@ The Streamlit dashboard (`app.py`) provides the following functionalities:
 Here are some screenshots of the application in action:
 
 -   **Dashboard Overview**:
-    ![Dashboard Overview](Screenshot%202025-09-07%20021849.png)
+    ![Dashboard Overview](Screenshot%202025-09-07%20100721.png)
 
 -   **SHAP Insights Section**:
     ![SHAP Insights](Screenshot%202025-09-07%20021923.png)
