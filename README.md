@@ -11,7 +11,7 @@ This project provides a comprehensive solution for analyzing and predicting poll
 - `preprocessing.ipynb`: Jupyter Notebook for data cleaning and preprocessing steps.
 - `model.pkl`: The pre-trained machine learning model used by the Streamlit application.
 - `pollution_heatmap.html`: An HTML file containing an interactive pollution heatmap, displayed within the Streamlit app.
-- `Screenshot 2025-09-07 021849.png`: Screenshot of the application.
+- `Screenshot 2025-09-07 100721.png`: Screenshot of the application.
 - `Screenshot 2025-09-07 021923.png`: Screenshot of the application.
 - `Screenshot 2025-09-07 021933.png`: Screenshot of the application.
 
@@ -85,3 +85,17 @@ Here are some screenshots of the application in action:
 
 -   **Pollution Heatmap Section**:
     ![Pollution Heatmap](Screenshot%202025-09-07%20021933.png)
+
+## Future Enhancements
+
+-   **Add More Cities**: Expand the dataset to include more cities for broader analysis.
+-   **Enhance Model**: Experiment with different machine learning models to improve prediction accuracy.
+-   **User Authentication**: Implement user authentication for secure access to the dashboard.
+
+## License
+
+This project is licensed under the MIT License. See the `LICENSE` file for details.
+
+## Contributing
+Contributions are welcome! Please fork the repository and submit a pull request.
+
